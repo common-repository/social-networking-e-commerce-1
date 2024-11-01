@@ -1,0 +1,1 @@
+<div class="friend-notice" style="margin-left:28px;"><?php _e('Friend', 'social'); ?></div>

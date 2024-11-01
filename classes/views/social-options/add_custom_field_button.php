@@ -1,0 +1,1 @@
+<p id="social-add-button"><a href="javascript:social_add_field(<?php echo $index; ?>)" class="button">+ <?php _e('Add a Custom Field', 'social'); ?></a><br/><span class="description"><?php _e('These fields will be added to each user\'s profile.', 'social'); ?></span></p>

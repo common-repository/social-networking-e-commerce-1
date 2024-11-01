@@ -1,0 +1,2 @@
+<?php global $social_options; ?>
+<div id="me"><?php  echo $user->screenname; ?><?php _e("That's You!", 'social'); ?></div><div id="melink"> - <a href="<?php echo get_permalink($social_options->profile_edit_page_id); ?>">[<?php _e('Edit', 'social'); ?>]</a></div>

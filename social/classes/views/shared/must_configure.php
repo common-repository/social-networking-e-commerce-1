@@ -1,0 +1,1 @@
+<div class="error" style="padding-top: 5px; padding-bottom: 5px;"><?php printf(__('social must be configured. Go to the %s to setup your new social network!', 'social'), '<a href="?page=social-options">'.__('social Admin Page', 'social').'</a>'); ?></div>

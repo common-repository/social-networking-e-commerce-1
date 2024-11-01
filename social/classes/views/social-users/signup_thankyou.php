@@ -1,0 +1,1 @@
+<h3><?php printf(__('Thanks for Registering for %s!', 'social'), $social_blogname); ?></h3><p><?php _e('You should shortly receive an email with your password.', 'social'); ?><?php do_action('social_signup_thankyou_message'); ?></p>

@@ -1,0 +1,1 @@
+<div class="social_messages_button" style="font-size:12px; margin-left:28px;"><b><a href="<?php echo "{$permalink}{$param_char}u={$user_id}"; ?>" style="text-decoration:none;"><?php printf(__('Send %s a Message', 'social'), $user->screenname); ?></a></b></div>

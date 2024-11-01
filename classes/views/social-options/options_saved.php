@@ -1,0 +1,1 @@
+<div class="updated"><p><strong><?php _e('Options saved.', 'social'); ?></strong></p></div>
